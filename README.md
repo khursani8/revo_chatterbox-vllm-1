@@ -1,3 +1,5 @@
+> **Unique:** Latency and concurrency lab for the same vLLM TTS port: TTFA benchmarks targeting under 1s, concurrent T3/S3Gen asyncio processing, CUDA MPS worker pools for parallel S3Gen, token streaming, and multi-GPU S3Gen.
+
 # Chatterbox TTS on vLLM
 
 This is a port of https://github.com/resemble-ai/chatterbox to vLLM. Why?
